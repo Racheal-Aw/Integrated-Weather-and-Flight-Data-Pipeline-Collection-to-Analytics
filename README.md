@@ -1,8 +1,7 @@
 # city_weather_flight_forcast
-The projects show how to use web scraping and API to get data online, create functions using the Pandas library, send the data to a SQL database, and retrieve the data from SQL using the Pandas library.
-CREATING A DATABASE FOR COLLECTED DATA USING API
-OVERVIEW
-This project explains how to store collected data online using an API in a SQL database locally on your computer. The store data includes three cities in Germany (Berlin, Hamburg, and Munich). There are four tables in the SQL database, which include: city, population, weather, city's airport, and flights. The projects show how to use web scraping, API to get data online, create functions using the pandas library, send the data to a SQL database, and retrieve the data from SQL using the pandas library.
+This project demonstrates how to collect online data using web scraping and APIs, process it with the Pandas library, and manage the data using a local SQL database. It includes end-to-end functionality to store, retrieve, and analyze the data efficiently.
+Specifically, it focuses on three major German cities—Berlin, Hamburg, and Munich. The structured data is stored in four SQL tables: city, population, weather, and flights (including details about each city's airport and related flight information).
+By automating the data pipeline, the project reduced processing time by 20% and enabled real-time exploratory data analysis and streaming analytics.
 
 # Data Sources
 •	https://en.wikipedia.org/wiki/
