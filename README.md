@@ -3,6 +3,8 @@ This project demonstrates how to collect online data using web scraping and APIs
 Specifically, it focuses on three major German cities—Berlin, Hamburg, and Munich. The structured data is stored in four SQL tables: city, population, weather, and flights (including details about each city's airport and related flight information).
 By automating the data pipeline, the project reduced processing time by 20% and enabled real-time exploratory data analysis and streaming analytics.
 
+![Image](https://github.com/user-attachments/assets/561a10cb-8a02-4256-862e-6bc235a2cfef)
+
 # Data Sources
 •	https://en.wikipedia.org/wiki/
 •	https://aerodatabox.p.rapidapi.com/airports/search/location
