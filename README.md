@@ -5,6 +5,11 @@ By automating the data pipeline, the project reduced processing time by 20% and 
 
 ![Image](https://github.com/user-attachments/assets/561a10cb-8a02-4256-862e-6bc235a2cfef)
 
+The schema for SQL database is as shown below:
+
+![Image](https://github.com/user-attachments/assets/2fde209c-96bf-457c-99da-f75f81e7250a)
+
+
 # Data Sources
 •	https://en.wikipedia.org/wiki/
 •	https://aerodatabox.p.rapidapi.com/airports/search/location
