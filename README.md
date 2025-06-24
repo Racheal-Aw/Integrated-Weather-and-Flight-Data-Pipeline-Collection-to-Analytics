@@ -14,12 +14,12 @@ These datasets are combined programmatically within the Jupyter notebook and MyS
 Data were obtained from the above website using data collection with Python (requests and beautiful soup)
 •	Data Cleaning & Preparation: The raw data was cleaned of duplicates and inconsistent formats. Data types were unified and datasets merged to create a comprehensive view of city, population, weather, and flight data 
 
-#Tools & Technologies
+# Tools & Technologies
 •	Python (Pandas, beautiful soup, requests) for data manipulation and analysis
 •	Jupyter environment on VS Code for an integrated code and report environment
 •	SQL for data storage on a local computer
 
-#Repository Contents
+# Repository Contents
 •	City_population.ipynb: Jupyter notebook containing all cities' code, analysis, and narrative report.
 •	weather.ipynb: Jupyter notebook containing all cities' code and weather report.
 •	Cities_airports.ipynb: Jupyter notebook containing all cities' code and airports' codes.
